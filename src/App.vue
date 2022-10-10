@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- Comment -->
-    <h1>Guten Tag</h1>
+    <h1>Guten Tag!</h1>
     <img alt="Vue logo" src="https://vuejs.org/images/logo.png" />
     <HelloWorld msg="Have a nice weekend" />
   </div>
